@@ -1,4 +1,4 @@
-## Rockbuster Stealth: Data-Driven Launch Strategy
+# Rockbuster Stealth: Data-Driven Launch Strategy
 
 Rockbuster Stealth LLC, a former movie rental giant, is pivoting to an online video rental service to compete with streaming platforms like Netflix and Amazon Prime. As a data analyst in the business intelligence department, my role was to analyze Rockbuster's data to inform the launch strategy for the new service. This involves loading data into a relational database, using SQL to analyze it, and presenting insights to the management board.
 
